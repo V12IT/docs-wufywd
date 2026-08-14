@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-h84qgv.qween.dev/sitemap.xml
